@@ -17,6 +17,7 @@
            sync-c="true"
            sync-j="32" />
 
+  <project remote="github" path="device" name="mortont/jetson-nano-aosp-device" />
   <project remote="nvidia-tegra" path="vendor/nvidia/licensed-binaries" name="prebuilts-licensed-binary-tlk-t210.git" />
   <project remote="nvidia-android" path="vendor/nvidia/build" name="platform/vendor/nvidia/build" />
 
